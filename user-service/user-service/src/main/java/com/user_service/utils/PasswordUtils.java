@@ -1,0 +1,4 @@
+package com.user_service.utils;
+
+public class PasswordUtils {
+}
